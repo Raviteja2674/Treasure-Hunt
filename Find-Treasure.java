@@ -2,6 +2,7 @@ import java.util.Scanner;
         import java.util.Random;
 
 public class TreasureHunt {
+        
 
     public static void main(String[] args) {
         // Set up the game
